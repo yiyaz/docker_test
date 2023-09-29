@@ -8,4 +8,4 @@ if __name__ == "__main__":
     v2 = np.array([4, 5, 6])
     
     result = calculate_dot_product(v1, v2)
-    print(f"The dot product is: {result}").
+    print(f"The dot product is: {result}")
